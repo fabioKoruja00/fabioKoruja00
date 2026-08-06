@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: Generate light and dark SVGs
-        uses: Platane/snk/svg-only@v3
+        uses: fabioKoruja00/snk/svg-only@dd63fa073a88be94b281db46acf8a7cd8d446533
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
