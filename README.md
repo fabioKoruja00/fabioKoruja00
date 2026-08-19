@@ -12,17 +12,25 @@ Cada sistema nasce da necessidade real de quem vai usar. Seguro, moderno e fáci
 
 </div>
 
-## Sobre mim
+## Sistema pronto quase nunca serve
 
-Desenvolvo o sistema a partir da necessidade do cliente — não de um molde pronto. Primeiro entendo a rotina de quem vai usar, depois escolho a tecnologia que serve àquele caso: aplicação web, aplicativo Android, programa de desktop ou automação de servidor.
+Ou falta justamente o que você precisa, ou você paga por vinte telas que ninguém abre. No fim é a sua equipe que se adapta ao software — quando devia ser o contrário.
 
-Três coisas não são negociáveis:
+Eu faço o caminho inverso: **começo pela sua rotina, não pela ferramenta.** Aplicação web, app Android, programa de desktop ou automação de servidor — a tecnologia é escolhida depois de entender o problema, nunca antes.
 
-- **Segurança desde o primeiro commit** — credencial em cofre, acesso mínimo necessário, backup que já foi testado restaurando.
-- **Usabilidade de verdade** — tela direta, que o usuário aprende sozinho e funciona bem no celular, não só no monitor grande.
-- **Nada engessado** — o sistema tem que aceitar a mudança que vem depois, sem virar refém da própria estrutura.
+**Seguro desde o primeiro commit**
+Senha em cofre, acesso mínimo e backup testado restaurando de verdade. Segurança não é etapa final: ou nasce junto com o código, ou não existe.
 
-Também cuido de onde o software roda: servidor, rede, deploy e monitoramento.
+**Feito para ser usado**
+Tela que se explica sozinha e funciona igual no celular de quem está na rua e no monitor de quem está no escritório.
+
+**Livre para mudar**
+Seu negócio muda todo ano. O sistema tem que acompanhar sem reescrever tudo — e sem te deixar refém de mim nem de ninguém.
+
+**Do código ao ar**
+Escrevo, publico e monitoro. Servidor, rede, deploy e o que quebrar às duas da manhã fazem parte do pacote.
+
+> Tem processo manual comendo o tempo da sua equipe, ou um sistema que já não dá conta? **[Me chama.](mailto:suporte@grnettelecom.com.br)**
 
 ## Tecnologias
 
