@@ -18,8 +18,8 @@ Ou falta justamente o que você precisa, ou você paga por vinte telas que ningu
 
 Eu faço o caminho inverso: **começo pela sua rotina, não pela ferramenta.** Aplicação web, app Android, programa de desktop ou automação de servidor — a tecnologia é escolhida depois de entender o problema, nunca antes.
 
-**Seguro desde o primeiro commit**
-Senha em cofre, acesso mínimo e backup testado restaurando de verdade. Segurança não é etapa final: ou nasce junto com o código, ou não existe.
+**Seu dado protegido**
+Cada pessoa enxerga só o que é da conta dela, e a cópia de segurança é testada de verdade — não basta existir, tem que voltar quando você precisar.
 
 **Feito para ser usado**
 Tela que se explica sozinha e funciona igual no celular de quem está na rua e no monitor de quem está no escritório.
@@ -27,10 +27,10 @@ Tela que se explica sozinha e funciona igual no celular de quem está na rua e n
 **Livre para mudar**
 Seu negócio muda todo ano. O sistema tem que acompanhar sem reescrever tudo — e sem te deixar refém de mim nem de ninguém.
 
-**Do código ao ar**
-Escrevo, publico e monitoro. Servidor, rede, deploy e o que quebrar às duas da manhã fazem parte do pacote.
+**Não te entrego e sumo**
+Coloco no ar, acompanho funcionando e continuo por perto quando quebrar ou precisar crescer.
 
-> Tem processo manual comendo o tempo da sua equipe, ou um sistema que já não dá conta? **[Me chama.](mailto:suporte@grnettelecom.com.br)**
+> Tem processo manual comendo o tempo da sua equipe, ou um sistema que já não dá conta? **[Chama no Instagram.](https://instagram.com/koruja0_mtb)**
 
 ## Tecnologias
 
