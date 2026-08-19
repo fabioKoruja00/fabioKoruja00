@@ -2,9 +2,9 @@
 
 # Fábio Junior Gruchovski
 
-### Desenvolvimento, automação e infraestrutura de redes
+### Software sob medida — web, mobile, desktop e automação
 
-Transformo necessidades operacionais de telecom em software confiável, seguro e fácil de manter.
+Cada sistema nasce da necessidade real de quem vai usar. Seguro, moderno e fácil de mudar depois.
 
 [![GRNET Telecom](https://img.shields.io/badge/GRNET_Telecom-Operações_e_Tecnologia-0A66C2?style=for-the-badge)](https://grnettelecom.com.br)
 [![E-mail](https://img.shields.io/badge/E--mail-suporte%40grnettelecom.com.br-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suporte@grnettelecom.com.br)
@@ -14,7 +14,15 @@ Transformo necessidades operacionais de telecom em software confiável, seguro e
 
 ## Sobre mim
 
-Desenvolvedor entre software e infraestrutura: escrevo o sistema e cuido de onde ele roda — servidor, rede, deploy e segredos.
+Desenvolvo o sistema a partir da necessidade do cliente — não de um molde pronto. Primeiro entendo a rotina de quem vai usar, depois escolho a tecnologia que serve àquele caso: aplicação web, aplicativo Android, programa de desktop ou automação de servidor.
+
+Três coisas não são negociáveis:
+
+- **Segurança desde o primeiro commit** — credencial em cofre, acesso mínimo necessário, backup que já foi testado restaurando.
+- **Usabilidade de verdade** — tela direta, que o usuário aprende sozinho e funciona bem no celular, não só no monitor grande.
+- **Nada engessado** — o sistema tem que aceitar a mudança que vem depois, sem virar refém da própria estrutura.
+
+Também cuido de onde o software roda: servidor, rede, deploy e monitoramento.
 
 ## Tecnologias
 
