@@ -12,25 +12,25 @@ Cada sistema nasce da necessidade real de quem vai usar. Seguro, moderno e fáci
 
 </div>
 
-## Sistema pronto quase nunca serve
+## Software feito para o seu processo
 
-Ou falta justamente o que você precisa, ou você paga por vinte telas que ninguém abre. No fim é a sua equipe que se adapta ao software — quando devia ser o contrário.
+Sistema de prateleira raramente encaixa: ou falta o que a operação precisa, ou vem cheio de função que ninguém usa — e no fim a equipe é que se adapta ao software.
 
-Eu faço o caminho inverso: **começo pela sua rotina, não pela ferramenta.** Aplicação web, app Android, programa de desktop ou automação de servidor — a tecnologia é escolhida depois de entender o problema, nunca antes.
+Trabalho no sentido inverso. **Primeiro entendo como sua operação funciona hoje**, depois defino a solução: aplicação web, aplicativo Android, programa de desktop ou automação de servidor. A tecnologia vem depois do problema, nunca antes.
 
-**Seu dado protegido**
-Cada pessoa enxerga só o que é da conta dela, e a cópia de segurança é testada de verdade — não basta existir, tem que voltar quando você precisar.
+**Segurança e privacidade**
+Cada pessoa acessa apenas o que lhe cabe, as informações trafegam protegidas e a cópia de segurança é testada periodicamente — backup só vale se restaurar quando for preciso.
 
-**Feito para ser usado**
-Tela que se explica sozinha e funciona igual no celular de quem está na rua e no monitor de quem está no escritório.
+**Simples de usar**
+Interface direta, que a equipe entende sem treinamento longo e funciona igual no celular de quem está na rua e no computador de quem está no escritório.
 
-**Livre para mudar**
-Seu negócio muda todo ano. O sistema tem que acompanhar sem reescrever tudo — e sem te deixar refém de mim nem de ninguém.
+**Preparado para crescer**
+O sistema acompanha a mudança do negócio: novas funções entram sem reescrever o que já existe, e o código fica documentado para qualquer profissional dar continuidade.
 
-**Não te entrego e sumo**
-Coloco no ar, acompanho funcionando e continuo por perto quando quebrar ou precisar crescer.
+**Suporte depois da entrega**
+A publicação é só o começo. Monitoro o funcionamento, corrijo o que aparecer e evoluo o sistema conforme a operação exigir.
 
-> Tem processo manual comendo o tempo da sua equipe, ou um sistema que já não dá conta? **[Chama no Instagram.](https://instagram.com/koruja0_mtb)**
+> Tem um processo manual consumindo o tempo da sua equipe, ou um sistema que já não dá conta? **[Vamos conversar.](https://instagram.com/koruja0_mtb)**
 
 ## Tecnologias
 
