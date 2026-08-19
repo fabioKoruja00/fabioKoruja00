@@ -14,9 +14,7 @@ Transformo necessidades operacionais de telecom em software confiável, seguro e
 
 ## Sobre mim
 
-Desenvolvedor com atuação entre software e infraestrutura. Escrevo o sistema e também cuido de onde ele roda — servidor, rede, deploy e segredos.
-
-O que me interessa é software que continua de pé sem ninguém olhando: monitoramento que enxerga a rede de verdade, automação que substitui trabalho manual e segurança tratada desde o primeiro commit.
+Desenvolvedor entre software e infraestrutura: escrevo o sistema e cuido de onde ele roda — servidor, rede, deploy e segredos.
 
 ## Tecnologias
 
@@ -57,14 +55,6 @@ O que me interessa é software que continua de pé sem ninguém olhando: monitor
 
 - **[para-voce](https://github.com/fabioKoruja00/para-voce)** — pedido de namoro em uma página só: cinco telas de enrolação e um botão **NÃO** que foge do mouse e do dedo. [Ver funcionando](https://fabiokoruja00.github.io/para-voce/)
 - **[ProjetoMario](https://github.com/fabioKoruja00/ProjetoMario)** e **[projetoZigeSharko](https://github.com/fabioKoruja00/projetoZigeSharko)** — desafios de front-end da Semana DEV em Dobro.
-
-## Como eu trabalho
-
-- **Medir antes de afirmar.** Diagnóstico sai de log e de teste. Quando a medição desmente o que estava escrito, quem muda é o texto.
-- **Falha nunca pode parecer sucesso.** Verificação que responde "tudo certo" no erro é pior que sistema fora do ar: quem usa confia e não age.
-- **Regra conferida por script.** Segredo vazado, arquivo grande demais, documentação desatualizada — tudo checado antes do commit. Verificador que grita à toa vira verificador ignorado.
-- **Segredo só no cofre.** Nunca em código, documento ou log.
-- **Documentação junto com a mudança**, não depois. Quem chega no dia seguinte precisa ler o estado atual, não a arqueologia.
 
 ## Contribuições
 
