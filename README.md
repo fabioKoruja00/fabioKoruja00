@@ -59,11 +59,6 @@ Também cuido de onde o software roda: servidor, rede, deploy e monitoramento.
 | **Desktop** | Aplicações .NET com Avalonia |
 | **Infraestrutura** | Linux, VMs, containers, cofre de segredos, backups cifrados e deploy versionado |
 
-## Público
-
-- **[para-voce](https://github.com/fabioKoruja00/para-voce)** — pedido de namoro em uma página só: cinco telas de enrolação e um botão **NÃO** que foge do mouse e do dedo. [Ver funcionando](https://fabiokoruja00.github.io/para-voce/)
-- **[ProjetoMario](https://github.com/fabioKoruja00/ProjetoMario)** e **[projetoZigeSharko](https://github.com/fabioKoruja00/projetoZigeSharko)** — desafios de front-end da Semana DEV em Dobro.
-
 ## Contribuições
 
 <div align="center">
