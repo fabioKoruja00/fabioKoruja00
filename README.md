@@ -14,9 +14,9 @@ Transformo necessidades operacionais de telecom em software confiável, seguro e
 
 ## Sobre mim
 
-Trabalho na **GRNET Telecom**, provedor de internet no interior do Paraná, aproximando desenvolvimento e infraestrutura. Sou eu quem escreve e quem opera: as ferramentas nascem de um problema real do dia a dia — um técnico sem informação em campo, um equipamento que caiu sem ninguém saber, uma tarefa manual que se repete toda semana — e vão para produção atender a própria equipe.
+Desenvolvedor com atuação entre software e infraestrutura. Escrevo o sistema e também cuido de onde ele roda — servidor, rede, deploy e segredos.
 
-Meu foco está em dar visibilidade à rede, tirar o trabalho repetitivo da mão de alguém e manter dados e credenciais protegidos.
+O que me interessa é software que continua de pé sem ninguém olhando: monitoramento que enxerga a rede de verdade, automação que substitui trabalho manual e segurança tratada desde o primeiro commit.
 
 ## Tecnologias
 
@@ -45,16 +45,13 @@ Meu foco está em dar visibilidade à rede, tirar o trabalho repetitivo da mão 
 
 ## Onde eu atuo
 
-Os sistemas que escrevo são internos e os repositórios, privados. O que dá para mostrar é o tipo de problema que resolvo.
-
 | Área | O que eu faço |
 |---|---|
-| **Monitoramento e automação de rede** | Painéis de estado ao vivo, coleta de métricas, rotinas de backup e alerta para equipes de campo |
-| **Documentação de infraestrutura** | Inventário e endereçamento como fonte única, expostos por API para os demais sistemas consumirem |
-| **Aplicativos Android** | Ferramentas de campo em Kotlin e Compose, *offline-first*, integradas à nuvem |
+| **Monitoramento e automação de rede** | Painel de estado ao vivo, coleta de métricas, rotinas de backup e alerta |
 | **Backend e web** | APIs, serviços agendados, integrações com terceiros e front-end quando o projeto pede |
-| **Desktop** | Aplicações .NET com Avalonia para uso administrativo |
-| **Infraestrutura e segurança** | Linux, VMs, containers, cofre de segredos, backups cifrados e deploy versionado |
+| **Android** | Kotlin e Jetpack Compose, *offline-first* com Room, sincronização com a nuvem |
+| **Desktop** | Aplicações .NET com Avalonia |
+| **Infraestrutura** | Linux, VMs, containers, cofre de segredos, backups cifrados e deploy versionado |
 
 ## Público
 
@@ -64,9 +61,9 @@ Os sistemas que escrevo são internos e os repositórios, privados. O que dá pa
 ## Como eu trabalho
 
 - **Medir antes de afirmar.** Diagnóstico sai de log e de teste. Quando a medição desmente o que estava escrito, quem muda é o texto.
-- **Falha nunca pode parecer sucesso.** Verificação que retorna "tudo certo" no erro é pior que sistema fora do ar: o operador confia e não age.
-- **Regra conferida por script.** Cada projeto tem verificadores próprios — segredo vazado, arquivo grande demais, documentação desatualizada, pendência sem classificação. Verificador que grita à toa vira verificador ignorado.
-- **Segredo só no cofre.** Nunca em código, documento, log ou conversa.
+- **Falha nunca pode parecer sucesso.** Verificação que responde "tudo certo" no erro é pior que sistema fora do ar: quem usa confia e não age.
+- **Regra conferida por script.** Segredo vazado, arquivo grande demais, documentação desatualizada — tudo checado antes do commit. Verificador que grita à toa vira verificador ignorado.
+- **Segredo só no cofre.** Nunca em código, documento ou log.
 - **Documentação junto com a mudança**, não depois. Quem chega no dia seguinte precisa ler o estado atual, não a arqueologia.
 
 ## Contribuições
