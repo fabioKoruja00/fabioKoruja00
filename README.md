@@ -47,11 +47,15 @@ A publicação é só o começo. Monitoro o funcionamento, corrijo o que aparece
 ![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=DD2C00)
 ![MariaDB](https://img.shields.io/badge/MariaDB-111827?style=for-the-badge&logo=mariadb&logoColor=C0765A)
 ![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=44A2D2)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Vault](https://img.shields.io/badge/Vault-111827?style=for-the-badge&logo=vault&logoColor=FFEC6E)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Proxmox](https://img.shields.io/badge/Proxmox-111827?style=for-the-badge&logo=proxmox&logoColor=E57000)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![WireGuard](https://img.shields.io/badge/WireGuard-111827?style=for-the-badge&logo=wireguard&logoColor=88171A)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 ![MikroTik](https://img.shields.io/badge/MikroTik-111827?style=for-the-badge&logo=mikrotik&logoColor=FFFFFF)
+![Zabbix](https://img.shields.io/badge/Zabbix-111827?style=for-the-badge&logo=zabbix&logoColor=D40000)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 
@@ -62,10 +66,12 @@ A publicação é só o começo. Monitoro o funcionamento, corrijo o que aparece
 | Área | O que eu faço |
 |---|---|
 | **Monitoramento e automação de rede** | Painel de estado ao vivo, coleta de métricas, rotinas de backup e alerta |
+| **Gerência de equipamento do assinante** | Provisionamento e diagnóstico remoto por TR-069, com inventário de endereçamento |
 | **Backend e web** | APIs, serviços agendados, integrações com terceiros e front-end quando o projeto pede |
 | **Android** | Kotlin e Jetpack Compose, *offline-first* com Room, sincronização com a nuvem |
 | **Desktop** | Aplicações .NET com Avalonia |
-| **Infraestrutura** | Linux, VMs, containers, cofre de segredos, backups cifrados e deploy versionado |
+| **Infraestrutura** | Linux, virtualização, containers, cofre de segredos, backups cifrados e deploy versionado |
+| **Publicação e acesso** | Túnel e cache na borda, autenticação por conta corporativa antes de o painel abrir |
 
 ## Contribuições
 
