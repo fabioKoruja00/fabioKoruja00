@@ -65,6 +65,8 @@ A publicação é só o começo. Monitoro o funcionamento, corrijo o que aparece
 
 | Área | O que eu faço |
 |---|---|
+| **Sites e páginas de divulgação** | Site institucional e página de apresentação do seu produto ou serviço, rápidos no celular e prontos para aparecer na busca |
+| **Loja virtual** | Catálogo, carrinho, pagamento e acompanhamento do pedido |
 | **Monitoramento e automação de rede** | Painel de estado ao vivo, coleta de métricas, rotinas de backup e alerta |
 | **Backend e web** | APIs, serviços agendados, integrações com terceiros e front-end quando o projeto pede |
 | **Android** | Kotlin e Jetpack Compose, *offline-first* com Room, sincronização com a nuvem |
