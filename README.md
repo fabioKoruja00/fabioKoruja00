@@ -66,12 +66,10 @@ A publicação é só o começo. Monitoro o funcionamento, corrijo o que aparece
 | Área | O que eu faço |
 |---|---|
 | **Monitoramento e automação de rede** | Painel de estado ao vivo, coleta de métricas, rotinas de backup e alerta |
-| **Gerência de equipamento do assinante** | Provisionamento e diagnóstico remoto por TR-069, com inventário de endereçamento |
 | **Backend e web** | APIs, serviços agendados, integrações com terceiros e front-end quando o projeto pede |
 | **Android** | Kotlin e Jetpack Compose, *offline-first* com Room, sincronização com a nuvem |
 | **Desktop** | Aplicações .NET com Avalonia |
-| **Infraestrutura** | Linux, virtualização, containers, cofre de segredos, backups cifrados e deploy versionado |
-| **Publicação e acesso** | Túnel e cache na borda, autenticação por conta corporativa antes de o painel abrir |
+| **Infraestrutura** | Linux, VMs, containers, cofre de segredos, backups cifrados e deploy versionado |
 
 ## Contribuições
 
